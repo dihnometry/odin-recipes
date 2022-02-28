@@ -1,0 +1,26 @@
+body {
+  padding: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: beige;
+}
+
+h1 {
+  font-size: 48px;
+  font-family: "Lucida Handwriting";
+  text-align: center;
+  padding: 0px;
+  margin-top: 0px;
+}
+
+img {
+  width: 400px;
+}
+
+.img-container {
+  text-align: center;
+}
+
+.main-page {
+  font-family: "Lucida Handwriting";
+  color: darkviolet;
+}
